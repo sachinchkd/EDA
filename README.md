@@ -64,6 +64,6 @@ This project is licensed under the MIT License.
 
 Special thanks to the data providers and the open-source community for their tools and libraries.
 
-[---](https://www.kaggle.com/datasets/allankirwa/mexico-city-real-estate-dataset)
+['mexico-real-estate-dataset'](https://www.kaggle.com/datasets/allankirwa/mexico-city-real-estate-dataset)
 
 Feel free to customize this README file according to your specific needs and project details.
